@@ -1,0 +1,31 @@
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_1.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_10.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_2.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_3.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_4.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_5.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_6.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_7.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_8.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Hemlock/hemlock_9.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_1.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_10.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_2.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_3.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_4.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_5.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_6.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_7.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_8.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Japanese Cherry/japanese_cherry_9.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/Images/Test/test_image.jpg
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/ImageClassification.deps.json
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/ImageClassification.runtimeconfig.json
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/ImageClassification.runtimeconfig.dev.json
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/ImageClassification.dll
+/Users/6272user/Desktop/ImageClassification/bin/Debug/netcoreapp2.0/ImageClassification.pdb
+/Users/6272user/Desktop/ImageClassification/obj/Debug/netcoreapp2.0/ImageClassification.csprojAssemblyReference.cache
+/Users/6272user/Desktop/ImageClassification/obj/Debug/netcoreapp2.0/ImageClassification.AssemblyInfoInputs.cache
+/Users/6272user/Desktop/ImageClassification/obj/Debug/netcoreapp2.0/ImageClassification.AssemblyInfo.cs
+/Users/6272user/Desktop/ImageClassification/obj/Debug/netcoreapp2.0/ImageClassification.dll
+/Users/6272user/Desktop/ImageClassification/obj/Debug/netcoreapp2.0/ImageClassification.pdb

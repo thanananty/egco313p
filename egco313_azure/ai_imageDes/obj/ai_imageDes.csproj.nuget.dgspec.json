@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/6272user/Desktop/egco313_azure/ai_imageDes/ai_imageDes.csproj": {}
+  },
+  "projects": {
+    "/Users/6272user/Desktop/egco313_azure/ai_imageDes/ai_imageDes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/6272user/Desktop/egco313_azure/ai_imageDes/ai_imageDes.csproj",
+        "projectName": "ai_imageDes",
+        "projectPath": "/Users/6272user/Desktop/egco313_azure/ai_imageDes/ai_imageDes.csproj",
+        "packagesPath": "/Users/6272user/.nuget/packages/",
+        "outputPath": "/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/6272user/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Azure.CognitiveServices.Vision.ComputerVision": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

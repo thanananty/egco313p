@@ -1,0 +1,16 @@
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/ai_Ocr
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/ai_Ocr.deps.json
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/ai_Ocr.runtimeconfig.json
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/ai_Ocr.runtimeconfig.dev.json
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/ai_Ocr.dll
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/ai_Ocr.pdb
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/Microsoft.Rest.ClientRuntime.dll
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/obj/Debug/netcoreapp3.0/ai_Ocr.csprojAssemblyReference.cache
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/obj/Debug/netcoreapp3.0/ai_Ocr.AssemblyInfoInputs.cache
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/obj/Debug/netcoreapp3.0/ai_Ocr.AssemblyInfo.cs
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/obj/Debug/netcoreapp3.0/ai_Ocr.csproj.CopyComplete
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/obj/Debug/netcoreapp3.0/ai_Ocr.dll
+/Users/6272user/Desktop/egco313_azure/ai_Ocr/obj/Debug/netcoreapp3.0/ai_Ocr.pdb

@@ -1,0 +1,16 @@
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.deps.json
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.runtimeconfig.json
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.runtimeconfig.dev.json
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.dll
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/ai_imageDes.pdb
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/Microsoft.Rest.ClientRuntime.dll
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.csprojAssemblyReference.cache
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.AssemblyInfoInputs.cache
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.AssemblyInfo.cs
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.csproj.CopyComplete
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.dll
+/Users/6272user/Desktop/egco313_azure/ai_imageDes/obj/Debug/netcoreapp3.0/ai_imageDes.pdb
