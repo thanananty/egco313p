@@ -1,0 +1,15 @@
+Images being analyzed ...
+
+Invalid remoteImageUrl:
+ 
+
+
+Calling GetHandwritingRecognitionOperationResultAsync()
+Server status: Running, waiting 1 seconds...
+
+The only way
+to do
+great work
+is to love
+what you do .
+Steve Jobs
